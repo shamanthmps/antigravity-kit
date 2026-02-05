@@ -55,6 +55,16 @@ AI: 🤖 Using @debugger for systematic analysis...
 - ✅ Transparent - shows which agent is being used
 - ✅ Can still override by mentioning agent explicitly
 
+### Build Robust Apps from Day 0
+
+For new app ideas, start with:
+
+1. `/brainstorm` to explore multiple approaches and trade-offs
+2. `/plan` to convert the selected direction into concrete tasks
+3. `/create` to implement only after the kickoff plan is approved
+
+This flow is designed to give you clear tasks and complete early-stage thinking before coding, so the app stays maintainable and production-ready.
+
 ### Using Workflows
 
 Invoke workflows with slash commands:
